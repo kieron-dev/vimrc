@@ -12,10 +12,8 @@ let g:maplocalleader = '-'
 "map <F6> :set invpaste<CR>:set paste?<CR>
 
 " Edit vimrc with ,vi
-nmap <silent> <leader>vi :e ~/.vim/vimrc<CR>
-"nmap <silent> <leader>vb :e ~/.vimrc.local.before<CR>
-"nmap <silent> <leader>vl :e ~/.vimrc.local<CR>
-"nmap <silent> <leader>vp :e ~/.vimrc.local.plugins<CR>
+nmap <silent> <leader>vi :e ~/.config/nvim/init.vim<CR>
+nmap <silent> <leader>vp :e ~/.config/nvim/Plug.vim<CR>
 
 "nnoremap j gj
 "nnoremap k gk
