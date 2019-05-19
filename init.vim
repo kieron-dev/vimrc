@@ -1,10 +1,10 @@
 runtime! Plug.vim
 
-runtime! config/coc.vim
 
 runtime! config/basic.vim
 runtime! config/bindings.vim
 runtime! config/colors.vim
+runtime! config/coc.vim
 
 runtime! config/plugin/airline.vim
 runtime! config/plugin/fugitive.vim
