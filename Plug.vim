@@ -27,7 +27,7 @@ Plug 'tpope/vim-surround'
 Plug 'luan/vipe'
 Plug 'tpope/vim-sleuth'
 Plug 'tpope/vim-fugitive'
-" Plug 'SirVer/ultisnips'
+Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 
 
