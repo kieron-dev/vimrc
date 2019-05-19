@@ -23,14 +23,10 @@ use most frequently from [luan's vimfiles](https://github.com/luan/vimfiles).
 ## Usage
 
 1. Edit some go code
-
 1. Enjoy fast navigation with
- * `gd` - go to definition
- * `gr` - find references
- * `gi` - find implementations
-
+    * `gd` - go to definition
+    * `gr` - find references
+    * `gi` - find implementations
 1. View docs inline with `K`
-
 1. Rename quickly with `rn`
-
 1. Fix easy errors with `<leader>qf`
