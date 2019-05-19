@@ -9,6 +9,8 @@ use most frequently from [luan's vimfiles](https://github.com/luan/vimfiles).
 1. Use the [latest](https://github.com/neovim/neovim/wiki/Installing-Neovim)
    neovim for best results.
 
+1. Install [vim-plug](https://github.com/junegunn/vim-plug)
+
 1. Install `gopls` from [here](https://github.com/saibing/tools/).
 
 ## Installation
