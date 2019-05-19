@@ -28,5 +28,5 @@ use most frequently from [luan's vimfiles](https://github.com/luan/vimfiles).
     * `gr` - find references
     * `gi` - find implementations
 1. View docs inline with `K`
-1. Rename quickly with `rn`
+1. Rename quickly with `<leader>rn`
 1. Fix easy errors with `<leader>qf`
