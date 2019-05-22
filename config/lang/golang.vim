@@ -9,3 +9,4 @@ let g:go_fold_enable = ['block', 'import', 'varconst', 'package_comment']
 
 " let coc.nvim handle it via LSP
 autocmd FileType go nunmap <buffer> K
+autocmd FileType go setlocal foldmethod=syntax
