@@ -1,5 +1,6 @@
 runtime! Plug.vim
 
+runtime! config/lang/golang.vim
 
 runtime! config/basic.vim
 runtime! config/bindings.vim
@@ -13,5 +14,6 @@ runtime! config/plugin/nerdtree.vim
 runtime! config/plugin/signify.vim
 runtime! config/plugin/tcomment.vim
 runtime! config/plugin/ultisnips.vim
+
 
 runtime! lib/functions.vim
