@@ -30,7 +30,9 @@ Plug 'tpope/vim-sleuth'
 Plug 'tpope/vim-fugitive'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
-
+Plug 'milkypostman/vim-togglelist'
+Plug 'kopischke/vim-stay'
+Plug 'Konfekt/FastFold'
 
 call plug#end()
 
